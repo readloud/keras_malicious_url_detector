@@ -117,7 +117,7 @@ Currently the bidirectional LSTM gives the best performance, with 75% - 80% accu
 
 Below is the training history (loss and accuracy) for the bidirectional LSTM:
 
-![bidirection-lstm-history](/demo/reports/bidirectional-lstm-history.png)
+![bidirection-lstm-history](/reports/bidirectional-lstm-history.png)
 
 # Issues
 
